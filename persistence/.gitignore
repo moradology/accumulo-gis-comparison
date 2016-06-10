@@ -1,0 +1,5 @@
+datasets/*
+hadoop-data/*
+hadoop-name/*
+hadoop-sname/*
+zookeeper/*
